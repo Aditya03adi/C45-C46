@@ -1,0 +1,9 @@
+class BaseClass {
+    constructor(){
+
+    }
+
+    display(){
+        
+    }
+}
